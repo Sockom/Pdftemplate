@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pdf_url">https://www.clickdimensions.com/links/TestPDFfile.pdf</string>
+</resources>
